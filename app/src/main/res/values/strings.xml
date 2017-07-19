@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PromedioAsistencia</string>
+    <string name="PrimeraNota">nota1</string>
+    <string name="SegundaNota">nota2</string>
+    <string name="TerceraNota">nota3</string>
+    <string name="calcular">calcular</string>
+    <string name="asistencia">asiste</string>
+    <string name="NoAsistencia">no asiste regularmente</string>
+</resources>
